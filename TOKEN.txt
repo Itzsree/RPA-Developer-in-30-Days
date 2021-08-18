@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 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
 
 
+=======
+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
+>>>>>>> 9d19d2c02be57d1d2e4d3d9af1cc4b66fd84d8e3
 $ ssh-keygen -t ed25519 -C "mayarjain@gmail.com"
